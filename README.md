@@ -1,1 +1,2 @@
-# python-mqtt
+### Note
+- this script supported MQTTS protocol
